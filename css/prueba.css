@@ -1,0 +1,26 @@
+
+.titulo {
+   color: rgb(255, 1, 1);
+   font-size: 24px;
+}
+
+/* Estilos para todos los elementos con clase .texto */
+.texto{
+ color: grey;
+ font-size: Arial;
+}
+
+/* Estilo aplicado solo al elemento con id especial */
+#especial{
+ color: red;
+font-weight: bold;
+}
+
+/* Estilo único para el header*/
+#encabezado{
+ background-color: rgb(60, 184, 143);
+ padding: 20px;
+}
+
+
+
